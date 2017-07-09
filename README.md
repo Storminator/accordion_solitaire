@@ -8,4 +8,4 @@ The other modules perform different game related functions:
 - deck_convert.py converts a card deck index number to a card symbol
 - suite_value_comparison.py compares if two cards are of the same suite or have the same number value.
 
-Game description:https://en.m.wikipedia.org/wiki/Accordion_(solitaire)
+Game description: https://en.m.wikipedia.org/wiki/Accordion_(solitaire)
